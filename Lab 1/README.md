@@ -68,12 +68,18 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
+_Setting:in the kitchen, or any place people can hand brew coffee
+_Players:the coffee lover, people want to hand brew coffee instead of using machine
+_Activity:hand brewing coffee is a hard work, need time and experiences to make good coffee, this device a smart dripper, 
+_Goals:
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
+how will the light presenting?
+is the light an add-on or a whole new device
 
 
 ## Part B. Act out the Interaction
