@@ -67,7 +67,7 @@ _Activity:_ hand brewing coffee is a hard work, need time and experiences to mak
 _Goals:_ the coffee maker use this dripper to make good coffee
 
 **Include a picture of your storyboard here**
-![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-1.jpg?raw=true)
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-1%202.jpg?raw=true)
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
@@ -101,11 +101,11 @@ my first attempt with Tinkerbelle fails after run the script and my browser can 
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
-![](https://drive.google.com/file/d/1AvQlgtKVXOzkTc_MHWIEnNCf961SFpyu/view?usp=sharing)
+![Video Here](https://drive.google.com/file/d/1AvQlgtKVXOzkTc_MHWIEnNCf961SFpyu/view?usp=sharing)
 
 
 **Show the follow-up work here.**
-![](https://drive.google.com/file/d/1MECX_TSpUV8syNns0VGQZuFXzbOvpFIB/view?usp=sharing)
+![Video Here](https://drive.google.com/file/d/1MECX_TSpUV8syNns0VGQZuFXzbOvpFIB/view?usp=sharing)
 
 ## Part E. Costume the device
 
@@ -115,7 +115,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
-![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-6.jpg?raw=true)
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-6%202.jpg?raw=true)
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 The environment and the whole operating process influence the design, like the coffee making may happening in the kitchen, so I want to the light should be strong enough for people to see the color different; when making coffee, there is a lot of water, so I need the device to be waterproof or at least keeps functional when getting wet.
@@ -124,8 +124,11 @@ The environment and the whole operating process influence the design, like the c
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
-![](https://drive.google.com/file/d/1NcMUtZyHSYF2m75UyYWRSE6Gwx0ZnTaF/view?usp=sharing)
+
+[Video Here](https://drive.google.com/file/d/1NcMUtZyHSYF2m75UyYWRSE6Gwx0ZnTaF/view?usp=sharing)
+
 **Please indicate anyone you collaborated with on this Lab.**
+
 Angus Lin, Jeff Lu, Justin Liu
 
 # Staging Interaction, Part 2 
