@@ -84,7 +84,7 @@ On paper everything looks perfect, however after acting out I find some misseing
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
-Yes, I think I can add coloring adjusting for people to choose their prepferred color, and instead of blinking the light, I decide to use different color to indicate the pouring pace.
+Yes, I think I can add color adjusting for people to choose their prepferred color, and instead of blinking the light, I decide to use different color to indicate the pouring pace.
 
 
 ## Part C. Prototype the device
@@ -96,6 +96,7 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
+my first attempt with Tinkerbelle fails after run the script and my browser can not connect to the server, my setting is mac os 11.2.1. I end up run the server on my aws instance! working fine with ubuntu 20.04!
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
