@@ -101,10 +101,11 @@ my first attempt with Tinkerbelle fails after run the script and my browser can 
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
+![](https://drive.google.com/file/d/1AvQlgtKVXOzkTc_MHWIEnNCf961SFpyu/view?usp=sharing)
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
+![](https://drive.google.com/file/d/1MECX_TSpUV8syNns0VGQZuFXzbOvpFIB/view?usp=sharing)
 
 ## Part E. Costume the device
 
@@ -114,15 +115,18 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-6.jpg?raw=true)
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+The environment and the whole operating process influence the design, like the coffee making may happening in the kitchen, so I want to the light should be strong enough for people to see the color different; when making coffee, there is a lot of water, so I need the device to be waterproof or at least keeps functional when getting wet.
 
 
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
-
+![](https://drive.google.com/file/d/1NcMUtZyHSYF2m75UyYWRSE6Gwx0ZnTaF/view?usp=sharing)
 **Please indicate anyone you collaborated with on this Lab.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+Angus Lin, Jeff Lu, Justin Liu
 
 # Staging Interaction, Part 2 
 
