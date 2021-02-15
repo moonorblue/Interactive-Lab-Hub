@@ -70,8 +70,8 @@ _Goals:_ the coffee maker use this dripper to make good coffee
 ![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-1.jpg?raw=true)
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
-How will the light presenting?
-Will the light be an add-on or a whole new device?
+
+People in my breakroom ask questions like how will the light presenting? will the light be an add-on or a whole new device?
 
 
 ## Part B. Act out the Interaction
