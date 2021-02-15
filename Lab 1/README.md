@@ -101,11 +101,11 @@ my first attempt with Tinkerbelle fails after run the script and my browser can 
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
-![Video Here](https://drive.google.com/file/d/1AvQlgtKVXOzkTc_MHWIEnNCf961SFpyu/view?usp=sharing)
+[Video Here](https://drive.google.com/file/d/1AvQlgtKVXOzkTc_MHWIEnNCf961SFpyu/view?usp=sharing)
 
 
 **Show the follow-up work here.**
-![Video Here](https://drive.google.com/file/d/1MECX_TSpUV8syNns0VGQZuFXzbOvpFIB/view?usp=sharing)
+[Video Here](https://drive.google.com/file/d/1MECX_TSpUV8syNns0VGQZuFXzbOvpFIB/view?usp=sharing)
 
 ## Part E. Costume the device
 
