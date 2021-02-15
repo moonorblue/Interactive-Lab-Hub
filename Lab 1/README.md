@@ -80,7 +80,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
+On paper everything looks perfect, however after acting out I find some misseing points, like the the color of the light might be useless for color blind people. and the blinking can not actually help people to know if the puring water is too fast need to slow down or is too slow need to get faster 
+
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
+Yes, I think I can add coloring adjusting for people to choose their prepferred color, and instead of blinking the light, I decide to use different color to indicate the pouring pace.
 
 
 ## Part C. Prototype the device
