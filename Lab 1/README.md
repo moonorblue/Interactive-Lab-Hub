@@ -67,7 +67,7 @@ _Activity:_ hand brewing coffee is a hard work, need time and experiences to mak
 _Goals:_ the coffee maker use this dripper to make good coffee
 
 **Include a picture of your storyboard here**
-
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/Untitled%20(Draft)-1.jpg?raw=true)
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 How will the light presenting?
