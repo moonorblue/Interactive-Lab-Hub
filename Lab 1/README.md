@@ -142,6 +142,7 @@ You will be assigned three partners from another group. Go to their github pages
 
 **Summarize feedback from your partners here.**
 
+My partners asked me questions about how do I achieve the function to detect the water flow, and they suggested to me that maybe I can detect it by sound (which might be an innovative way) or I can detect the rate by quantifying the water flow. I didn't pay much attention to this part of the device, but besides the light, this might be the device's most important function! 
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
