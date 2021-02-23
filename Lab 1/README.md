@@ -94,6 +94,9 @@ You will be using your smartphone as a stand-in for the device you are prototypi
 Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
 
 We invented this tool for this lab! 
+
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+
 **Give us feedback on Tinkerbelle.**
 
 my first attempt with Tinkerbelle fails after run the script and my browser can not connect to the server, my setting is mac os 11.2.1. I end up run the server on my aws instance! working fine with ubuntu 20.04!
@@ -161,3 +164,5 @@ This time I design a smart scale and smart food server, the feature is straightf
 ## Video
 
 [Video Here](https://drive.google.com/file/d/1dPi0rP4MPDjatf1Uiub8ppQaDFatHTPH/view?usp=sharing)
+=======
+**Document everything here. (Particularly we'd like to see the storyboard and video, although photos of the prototype are also great.)**
