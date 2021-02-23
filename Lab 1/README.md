@@ -155,6 +155,9 @@ Do last week’s assignment again, but this time:
 This time I design a smart scale and smart food server, the feature is straightfoward: the server will give food portion depends on the user's body weight/body fat, and the user's weight goal(lose weight, maintain, or gain weight)
 
 ## Storyboard
+
 ![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%201/E8A2652F-EDAF-4412-8E0B-DD23CE4410FB_1_105_c.jpeg?raw=true)
 
 ## Video
+
+[Video Here](https://drive.google.com/file/d/1dPi0rP4MPDjatf1Uiub8ppQaDFatHTPH/view?usp=sharing)
