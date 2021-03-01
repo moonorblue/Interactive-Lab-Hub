@@ -174,5 +174,11 @@ After that git will ask you to login to your github account to upload.
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+For further interactions I think maybe I can add these features:
+* Click the button to change color
+* Click the button to change how the clock move
+* Click the button to change the timezone of the clock
+* Click the button to change the UI of the clock
 
+Probably will add some features related to layout of the clock 
 
