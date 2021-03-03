@@ -179,7 +179,8 @@ For further interactions I think maybe I can add these features:
 * Click the button to change how the clock move
 * Click the button to change the timezone of the clock
 * Click the button to change the UI of the clock
-=======
+* Probably will add some features related to layout of the clock 
+
 ## Prep for Part 2
 
 1. Pick up remaining parts for kit.
@@ -196,5 +197,4 @@ As always, make sure you document contributions and ideas from others explicitly
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
-Probably will add some features related to layout of the clock 
 
