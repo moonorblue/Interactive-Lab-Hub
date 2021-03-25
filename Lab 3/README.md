@@ -1,4 +1,4 @@
-# You're a wizard, [Student Name Here]
+# You're a wizard, Kae-Jer
 
 <img src="https://pbs.twimg.com/media/Cen7qkHWIAAdKsB.jpg" height="400">
 
@@ -66,11 +66,19 @@ Create a system that runs on the Raspberry Pi that takes in one or more sensors 
 
 ## Prep for Part 2
 
-1. Sketch ideas for what you'll work on in lab on Wednesday.
+Idea: A mini crypto market helper, use voice to control the device to show data
+
+<img src="https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Untitled%20(Draft)-1%203.jpg?raw=true">
 
 ## Share your idea sketches with Zoom Room mates and get feedback
 
 *what was the feedback? Who did it come from?*
+
+Justin Liu: This is so cool! Are these data real-time?
+
+Jeff Lu: Very fancy feature, can you place order with it?
+
+Cheng-Wei Hu: Wow, really amazing, can you use it to make money?
 
 ## Prototype your system
 
@@ -81,7 +89,11 @@ The system should:
 
 *Document how the system works*
 
+The system works in a very straightforward way; after the user asks the device to show the cryptocurrency market data, it will show the data on the screen. The user can ask the device to show more than one market data, (the default one is BTC), the user can ask the device to show other market data. Besides adding market data, the user can ask the device to speed up the data update frequency. Here I use the button pressing to act like how the device receives the voice command. 
+
 *Include videos or screencaptures of both the system and the controller.*
+
+[Video here](https://drive.google.com/file/d/1sp6yZdiph-kIt9fkr9pUq0Mwa2ep3U0G/view?usp=sharing)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -89,18 +101,21 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-*your answer here*
+
+The device worked well with showing the data with the according "voice command", it can update the data immediately. For what didn't work well, normal user kind of don't know the purpose of the device, the numbers on the screen were not meaningful for people who're not interested in cryptocurrency
 
 ### What worked well about the controller and what didn't?
 
-*your answer here*
+The controller works efficiently, can immediately respond to the "voice command" and show the corresponded function, but the buttons were quite simple controllers, it's hard to make complicated features with them. 
+
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-*your answer here*
+We'll limit the functions or the features of the system if we only use the "WoZ" like interactions; if we let users try the device with more flexibility, it's possible to come up with more new ideas for the device  
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-*your answer here*
+I can use my system to record how users talk to the device, with other related data, like time, sentence length, etc.
+I think if we can capture the photos or videos of the user when they are using the device might be interesting; perhaps we can understand their mood or their reactions by their face or body language. 
 
