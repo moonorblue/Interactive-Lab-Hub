@@ -130,9 +130,16 @@ Make a paper display for your project that communicates the state of the Pi and 
  
 **a. Document the design for your paper display.** (e.g. if you had to make it again from scratch, what information would you need?). Include interim iterations (or at least tell us about them).
 
+Since the 2021 F1 season is coming, I'd like to make a simple version of the F1 racing car steering wheel simulator. I will create a "F1 steering wheel" - like prototype and "pedals" that can interact with users. I'll use the cardboard to mock the similar size and shape of the steering-wheel and the pedals.
+
+
 **b. Make a video of your paper display in action.**
 
+[Video here](https://drive.google.com/file/d/1PHIpd0iRjnf2Jdsif084bHq5-uo0UVnu/view?usp=sharing)
+
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+Since it's a "simulator", it should at least to be a reasonable size to handle, so it's should not be too small. And for the pedal, it should be able for user to "step on" and "step off"
 
 ### Part D
 ### Materiality
@@ -143,7 +150,12 @@ Design a system with the Pi and anything from your kit with a focus on form, and
 
 **a. document the material prototype.** Include candidates that were considered even if they were set aside later.
 
+For this F1 racing car simulator I will use cardboards to create a "F1 steering wheel" - like prototype and "pedals", working with Pi with the screen and the capacitive sensor and the gyro sensor. The screen can show current speed and the the capacitive sensor and detect user the movement on the pedal. The gyro sensor would detect the direction of the steering wheel.
+
 **b. explain the selection.**
+
+Because this prototype is a "simulator", I think the size of the the "sterring wheel to be the similar size or at least not too small for user to use. And for the "pedals", it should be big enough for user to "use" by the foot. 
+
 
 ### Part 2.
 
@@ -152,9 +164,23 @@ Following exploration and reflection from Part 1, complete the "looks like," "wo
 Reiterating:
 ### Deliverables for this lab are: 
 1. Sketches/photos of device designs
-1. "Looks like" prototypes: show us what how the device should look, feel, sit, weigh, etc.
+
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%204/Untitled%20Notebook-2.jpg)
+
+2. "Looks like" prototypes: show us what how the device should look, feel, sit, weigh, etc.
+
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%204/IMG_6375.jpeg)
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%204/IMG_6377.jpeg)
+![](https://github.com/moonorblue/Interactive-Lab-Hub/blob/Spring2021/Lab%204/IMG_6378.jpeg)
+
 3. "Works like" prototypes: show us what the device can do
+
+The "similuator" can let user to "step on" pedal to "speed up" and "step on" the other pedal to "brake", and the screen on the steering wheel will show the "current speed", and pi can calculate the current direction of the steering wheel 
+
 4. "Acts like" prototypes: videos/storyboards/other means of showing how a person would interact with the device
+ 
+[Video Here](https://drive.google.com/file/d/1QhRIsTdhSNE-gtz0wyqSkq9IVZLkCa8O/view?usp=sharing)
+
 5. Submit these in the lab 4 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same for each person in the group.
 
 
