@@ -121,21 +121,41 @@ This can be as simple as the boat detector earlier.
 Try out different interactions outputs and inputs.
 **Describe and detail the interaction, as well as your experimentation.**
 
+I choose the "Object detection" example as my experiment, it's quite interesting that the detection was quite easy with openCV and tensorflow.
+Since I live in high floor, the objects in my window scene were too small for pi's camera to capture, so I try to play video in my screen, and see if pi can capture the objects in the video. 
+In my final interactive system, I play "Fast and Furious 9" movie trailer, and use pi to count how many cars appear in the clip!
+
 ### Part C
 ### Test the interaction prototype
 
 Now flight test your interactive prototype and **note your observations**:
 For example:
 1. When does it what it is supposed to do?
+   
+    It should capture cars in the video
 1. When does it fail?
+   
+    It fails when the scene in the movie moves really fast, or there are too many object in the scene (eg. trees, people, airplane and cars show in the same scene and move fast)
 1. When it fails, why does it fail?
+   
+    I think it fails becasue the features of "cars in the video" do not pass the threshold of the detection model
 1. Based on the behavior you have seen, what other scenarios could cause problems?
+   
+    If the video is too dark or be playing too fast, it would also fail to capture cars. 
 
 **Think about someone using the system. Describe how you think this will work.**
 1. Are they aware of the uncertainties in the system?
+   
+    Yes, the detection accuracy was not that good, so the user might not trust the system.
 1. How bad would they be impacted by a miss classification?
+   
+    If the system was used to capture the car accident scene (eg. from recording on the street), it might be pretty bad to capture the wrong number of the cars
 1. How could change your interactive system to address this?
+   
+    Enhance the detection model, or use a better camera 
 1. Are there optimizations you can try to do on your sense-making algorithm.
+
+    Yes, I think it can be improved by training the model with a focus on "vehicles"
 
 ### Part D
 ### Characterize your own Observant system
@@ -143,14 +163,30 @@ For example:
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
 * What can you use X for?
+  
+    I can use the system to capture current traffic condition
 * What is a good environment for X?
+    
+    An environment with enough light, and nothing cover the view of the camera
 * What is a bad environment for X?
+  
+    Bad weather, not enought light, the view of camera got covered
 * When will X break?
+  
+    When the device is out of energy, when the camera is not working, 
 * When it breaks how will X break?
+  
+    It will stop working and respond nothing
 * What are other properties/behaviors of X?
+  
+    It can not be too far away from the detection scene, or it would not work properly to detect objects (cars)
 * How does X feel?
+    
+    It feels powerful to see how it can capture objects with such simple devices
 
 **Include a short video demonstrating the answers to these questions.**
+
+You can find the system fails to detect cars from the video in the link below in Part2 (in some dark scenes, or a scene with tiny cars)
 
 ### Part 2.
 
