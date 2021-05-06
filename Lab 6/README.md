@@ -85,12 +85,27 @@ Glitch is a great tool for prototyping sites, interfaces and web-apps that's wor
 
 Find at least one class (more are okay) partner, and design a distributed application together. 
 
-**1. Explain your design** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
+**1. Explain your design** 
 
-**2. Diagram the architecture of the system.** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+The idea is to use the pi as a controller to control a system, for example, my design lets users use the  APDS-9960  sensor to control Spotify; I think it would be cool to control music playing even without a screen or display. 
 
-**3. Build a working prototype of the system.** Do think about the user interface: if someone encountered these bananas, would they know how to interact with them? Should they know what to expect?
+**2. Diagram the architecture of the system.** 
 
-**4. Document the working prototype in use.** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+Input: Human gestures (swipes up, down, left, right)
+
+Output: Detected gesture from the sensor
+
+Computation: Pi will send gestures (0,1,2,3 -> up, down, left, right) to the MQTT server, and another listener script will listen to the current input gesture from MQTT server and execute the action to control the Spotify web player, the up and down gestures will increase and decrease the music volume, and the left and right to play next song and previous song! 
+
+The detection script will connect to the MQTT server as the writer to send gestures and the listener script will connect to the MQTT server as the reader and to control Spotify. 
+
+
+**3. Build a working prototype of the system.**
+
+The user interface is simple. I tell the user to swipe up and down on the sensor to adjust the volume and swipe left and right to go to the next song and previous song!
+
+**4. Document the working prototype in use.** 
+
+[Video Here](https://drive.google.com/file/d/1lVQJEuxhWoEIhd51ElltcQY2VtICvsXM/view?usp=sharing)
 
 **5. BONUS (Wendy didn't approve this so you should probably ignore it)** get the whole class to run your code and make your distributed system BIGGER.
